@@ -22,20 +22,26 @@ Because MacOS has python 2.7 installed out of factory, you will need to specify 
 Then run the following command to start the server:
 
 MacOS: python3 manage.py runserver
+
 Other: python manage.py runserver
 
 Then you can go to any of these links, depending how far you progressed in through the DjangoTutorial:
 If you use this Github repository you will be able to access all of the below pages.
 
 http://localhost:8000/
+
 http://localhost:8000/polls/
+
 http://localhost:8000/admin/
+
 
 
 ---
 
 Admin credentials for the admin page of this application:
+
 Username: admin
+
 Password: superadmin
 
 ---
